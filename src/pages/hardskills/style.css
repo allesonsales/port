@@ -1,0 +1,60 @@
+#sectionhard {
+    display: flex;
+}
+
+#hardSkills .content {
+    display: grid;
+    grid-template-areas:
+    'html css javascript'
+    'react node figma';
+    min-width: 100vw;
+    min-height: 76vh;
+    align-items: center;
+    background: var(--primary-color);
+}
+
+
+.skill {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    color: white;
+    font-weight: 600;
+}
+
+.skill:hover {
+    transform: scale(1.1);
+    transition: ease-in-out .5s;
+}
+
+.skill .bi {
+    color: white;
+}
+
+.skill span {
+    font-family: 'lato';
+}
+
+.html {
+    grid-area: html;
+}
+
+.css {
+    grid-area: css;
+}
+
+.javascript {
+    grid-area: javascript;
+}
+
+.react {
+    grid-area: react;
+}
+
+.node {
+    grid-area: node;
+}
+
+.figma {
+    grid-area: figma;
+}

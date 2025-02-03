@@ -1,0 +1,54 @@
+#aboutMe {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    padding: 0 5rem;
+    position: relative;
+}
+
+#aboutMe img {
+    border-radius: 50%;
+    border: solid 10px #031A6B;
+    height: 350px;
+    transform: scaleX(-1);
+}
+
+.aboutMe-content {
+    font-family: Lato;
+    text-align: left;
+    width: 272px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5rem;
+}
+
+.aboutMe-content span {
+    font-size: 1.3rem;
+    color: rgb(104, 104, 104);
+}
+
+.aboutMe-content div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.aboutMe-content .dentro{
+    font-family: 'Montserrat';
+    font-weight: 1000;
+    color: #031A6B;
+    font-size: 5rem;
+    line-height: 50px;
+}
+
+.end-section {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    min-width: 100vw;
+    z-index: -1;
+    transform: rotate(180deg);
+    fill: #031A6B;
+}
