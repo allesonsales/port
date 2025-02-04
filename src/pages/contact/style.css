@@ -26,7 +26,7 @@
     bottom: 0;
     left: 0;
     background-color: rgb(231, 231, 231);
-    min-width: 94vw;
+    min-width: 95vw;
     padding: 3rem;
     justify-content: flex-end;
     align-items: center;
@@ -41,7 +41,7 @@
     cursor: pointer;
 }
 
-.contatoIcons .icon:hover {
+.contatoIcons .icon a:hover {
     color: #a7b6ec;
     transition: ease-in-out .5s ;
 }
