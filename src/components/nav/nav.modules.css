@@ -45,3 +45,9 @@ a:hover {
 a:visited {
     text-decoration: none;
 }
+
+@media (max-width: 767px) {
+    nav ul {
+        display: none;
+    }
+}
