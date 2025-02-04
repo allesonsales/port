@@ -1,6 +1,6 @@
 import './style.css'
 
-const icon = () => {
+const contact = () => {
     return (
         <section id="contact">
             <div className="title">
@@ -9,7 +9,7 @@ const icon = () => {
             <div className="content contato">
                 <div className="contatoText">
                     <span>E aí, bora trampar juntos?</span>
-                    <i class="bi bi-emoji-smile"></i>
+                    <i className="bi bi-emoji-smile"></i>
                 </div>
                 <div className="contatoIcons">
                     <div className="icon">
@@ -21,19 +21,19 @@ const icon = () => {
                     <div className="icon">
                         <a href="mailto:allesonsales@gmail.com">
                             allesonsales@gmail.com
-                            <i class="bi bi-envelope-at-fill"></i>
+                            <i className="bi bi-envelope-at-fill"></i>
                         </a>
                     </div>
                     <div className="icon">
                         <a href='https://www.linkedin.com/in/allesonsales/' target='blank'>
                             LinkedIn 
-                            <i class="bi bi-linkedin"></i>
+                            <i className="bi bi-linkedin"></i>
                         </a>
                     </div>
                     <div className="icon">
                         <a href=''>
                             Instagram
-                            <i class="bi bi-instagram"></i>
+                            <i className="bi bi-instagram"></i>
                         </a>
                     </div>
                     <div className="icon">
@@ -48,4 +48,4 @@ const icon = () => {
     )
 }
 
-export default icon
+export default contact
