@@ -15,7 +15,6 @@
 
 .contato span {
     font-size: 3rem;
-    
     font-family: 'lato';
 }
 
@@ -26,7 +25,7 @@
     bottom: 0;
     left: 0;
     background-color: rgb(231, 231, 231);
-    min-width: 95vw;
+    width: 95vw;
     padding: 3rem;
     justify-content: flex-end;
     align-items: center;
@@ -49,4 +48,28 @@
 
 .contato .icon .bi {
     font-size: 1.5rem;
+}
+
+@media (max-width: 767px) {
+    .contact {
+        width: 80vw;
+    }
+
+    .contatoIcons .icon span {
+        display: none;
+    }
+
+    .contato span{
+        font-size: 1rem;
+    }
+
+    .contato .contatoText .bi {
+        font-size: 1.5rem;
+    }
+
+    .contato .contatoIcons {
+        width: 73vw;
+        gap: 1rem;
+        justify-content: space-around;
+    }
 }

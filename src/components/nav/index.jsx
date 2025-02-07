@@ -14,6 +14,7 @@ const NavBar = () => {
             </div>
             <ul className="navBar">
                 <li className="nav-icon"><a href='#aboutMe'>Início</a></li>
+                <li className="nav-icon"><a href='#aboutMe'>Projetos</a></li>
                 <li className="nav-icon"><a href='#hardSkills'>Hard Skills</a></li>
                 <li className="nav-icon"><a href='#softSkills'>Soft Skills</a></li>
                 <li className="nav-icon"><a href='#'>Projetos</a></li>

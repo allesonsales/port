@@ -9,17 +9,27 @@ const MenuHamburguer = () => {
         setHamburguerOpen(!hamburguerOpen)
     }
 
+    const iconChange = () => {
+        
+    };
+
+
     return (
     <>
         <div className="menuHamburguer" onClick={toggleHamburguer}>
-            <i class="bi bi-list"></i>
+        {hamburguerOpen ? (
+                    <i className="bi bi-x"></i>
+                ) : (
+                    <i className="bi bi-list"></i>
+                )}
         </div>
         <div className="menuHamburguerList" style={{display: hamburguerOpen ? 'flex' : 'none'}}>
             <ul className='ulHamburguer'>
-                <li>Inicio</li>
-                <li>Hard</li>
-                <li>Soft</li>
-                <li>Contato</li>
+                <li><a href='#aboutMe'>Inicio</a></li>
+                <li><a href='#aboutMe'>Projetos</a></li>
+                <li><a href='#hardSkills'>Hard</a></li>
+                <li><a href='#softSkills'>Soft</a></li>
+                <li><a href='#contact'>Contato</a></li>
             </ul>
         </div>
     </>

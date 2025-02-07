@@ -52,3 +52,25 @@
     transform: rotate(180deg);
     fill: #031A6B;
 }
+
+@media (max-width: 767px) {
+
+    #aboutMe {
+        flex-direction: column;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    #aboutMe img {
+        width: 150px;
+        height: auto;
+    }
+
+    .aboutMe-content span {
+        font-size: 1rem;
+    }
+
+    .aboutMe-content .dentro {
+        font-size: 4rem;
+    }
+}

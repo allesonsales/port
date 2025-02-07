@@ -7,23 +7,23 @@ const SoftSkills = () => {
                 <h2>Soft Skills</h2>
             </div>
             <div class="content">
-                <div class="skill">
+                <div class="skill autodidata">
                     <i class="bi bi-highlighter"></i>
                     <span>Autodidata</span>
                 </div>
-                <div class="skill">
+                <div class="skill resolutivo">
                     <i class="bi bi-lightbulb"></i>
                     <span>Resolutivo</span>
                 </div>
-                <div class="skill">
+                <div class="skill lideranca">
                     <i class="bi bi-yin-yang"></i>
                     <span>Liderança</span>
                 </div>
-                <div class="skill">
+                <div class="skill time">
                     <i class="bi bi-emoji-wink"></i>
                     <span>Do time</span>
                 </div>
-                <div class="skill">
+                <div class="skill pensamento">
                     <i class="bi bi-chat-quote"></i>
                     <span>Pensamento Crítico</span>
                 </div>

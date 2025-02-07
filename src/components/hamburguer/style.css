@@ -24,13 +24,28 @@
         position: absolute;
         top: 0;
         right: 0;
-        width: 200px;
-        height: 400px;
-        background-color: antiquewhite
+        width: 50vw;
+        height: 100vh;
+        background-color: #091d5a;
+        display: block;
+    }
+
+    .menuHamburguerList ul {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        text-align: right;
+        margin-top: 95px;
+        margin-left: 35px;
+        padding: 0;
     }
 
     .ulHamburguer li {
-        color: red;
+        color: white;
         font-size: .8rem;
+        margin-right: 15px;
+        display: block;
+        padding-right: 2rem;
     }
 }

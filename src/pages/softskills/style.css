@@ -1,8 +1,37 @@
 #softSkills .content {
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    padding: 0 4rem;
+    justify-content: space-around;
     background-color: var(--primary-color);
     min-height: 71vh;
+}
+
+@media (max-width: 767px) {
+    #softSkills .content {
+        display: grid;
+        grid-template-areas: 
+        'autodidata autodidata'
+        'resolutivo lideranca'
+        'time pensamento';
+    }
+
+    .autodidata {
+        grid-area: autodidata;
+    }
+
+    .resolutivo {
+        grid-area: resolutivo;
+    }
+
+    .lideranca {
+        grid-area: lideranca;
+    }
+
+    .time {
+        grid-area: time;
+    }
+
+    .pensamento {
+        grid-area: pensamento;
+    }
 }
