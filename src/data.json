@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Spider-Man",
+        "link":"https://allesonsales.github.io/spider-man/",
+        "image": "https://i.imgur.com/18ySKtK.png",
+        "description": "Projeto desenvolvido dentro do bootcamp de Front-end da DIO, onde o desafio foi aplicar os conhecimentos em html, css e javascript. No projeto podemos encontrar alguns filmes do teiudo e entender a cronologia."
+    },
+    {
+        "name":"Coding-Bootcamp",
+        "link":"https://allesonsales.github.io/coding-bootcamp/",
+        "image": "https://i.imgur.com/hBysBHF.png",
+        "description": "Desafio do Front-end Mentor, onde deviamos replicar uma página de depoimentos e alterar o slide através de JavaScript."
+    },
+    {
+        "name":"Conference Ticket Generator",
+        "link":"https://allesonsales.github.io/conference-ticket-generator/",
+        "image": "https://i.imgur.com/QN6H6T0.png",
+        "description": "Desafio do Front-end Mentor onde deviamos pegar os dados do usuário e gerar um ticket através de Javascript"
+    },
+    {
+        "name":"Advice Generator",
+        "link":"https://allesonsales.github.io/advice-generator/",
+        "image": "https://i.imgur.com/h24kUwI.png",
+        "description": "Um gerador de conselhos através de uma API."
+    },
+    {
+        "name":"Social Media Dashbard",
+        "link":"https://allesonsales.github.io/social-media-dashboard-theme-switcher/",
+        "image": "https://i.imgur.com/6xyyAE0.png",
+        "description": "Uma Dashboard de números de seguidores, com a troca de tema."
+    },
+    {
+        "name":"Pricing Component",
+        "link":"https://allesonsales.github.io/Pricing-component-toggle-master/",
+        "image": "https://i.imgur.com/PIeseUs.png",
+        "description": "Página de assinatura, passando o desconto através de um toggle em javascript."
+    },
+    {
+        "name":"Time Tracking DashBoard",
+        "link":"https://allesonsales.github.io/time-tracking-dashboard/",
+        "image": "https://i.imgur.com/tsZbQjC.png",
+        "description": "Aqui o usuário é capaz de ver o tempo gasto em atividades, semanalmente, diareamente ou mensalmente"
+    },
+    {
+        "name":"Expenses Chart",
+        "link":"https://allesonsales.github.io/expenses-chart/",
+        "image": "https://i.imgur.com/WqFyGFF.png",
+        "description": "Card de gastos, desenvolvido totalmente em react e passado os dados em react."
+    }
+]
+

@@ -14,11 +14,13 @@ body {
 }
 
 #root {
-  min-width: 100%
+  min-width: 337px;
 }
 
 section {
   min-height: 100vh;
+  min-width: 337px;
+  width: 100vw;
   position: sticky;
 }
 

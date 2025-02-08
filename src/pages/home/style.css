@@ -3,8 +3,21 @@
     align-items: center;
     justify-content: center;
     gap: 4rem;
-    padding: 0 5rem;
     position: relative;
+}
+
+.aboutMeContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 4rem;
+    min-width: 337px;
+}
+
+.imagecontainer {
+    display: flex;
+    gap: 4rem;
 }
 
 #aboutMe img {
@@ -43,6 +56,25 @@
     line-height: 50px;
 }
 
+.download {
+    background-color: #031A6B;
+    border: none;
+    padding: 1rem;
+    color: white;
+    border-radius: 20px;
+    width: 200px;
+    cursor: pointer;
+    transition: ease-in-out .2s;
+}
+
+button:hover {
+    background-color: #a7b6ec;
+    transition: ease-in-out .2s;
+    a {
+        color: #031A6B;
+    }
+}
+
 .end-section {
     position: absolute;
     left: 0;
@@ -53,21 +85,34 @@
     fill: #031A6B;
 }
 
+
+
 @media (max-width: 767px) {
 
     #aboutMe {
         flex-direction: column;
         align-items: center;
         gap: 1rem;
+        
     }
 
     #aboutMe img {
-        width: 150px;
+        width: 200px;
         height: auto;
     }
 
+    .aboutMeContainer {
+        flex-direction: column;
+        gap: 4rem;
+    }
+
+   .imagecontainer {
+    flex-direction: column;
+    gap: 2rem;
+   }
+
     .aboutMe-content span {
-        font-size: 1rem;
+        font-size: 1.3rem;
     }
 
     .aboutMe-content .dentro {

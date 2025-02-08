@@ -3,28 +3,28 @@ import './style.css'
 const SoftSkills = () => {
     return (
         <section id="softSkills">
-            <div class="title">
+            <div className="title">
                 <h2>Soft Skills</h2>
             </div>
-            <div class="content">
-                <div class="skill autodidata">
-                    <i class="bi bi-highlighter"></i>
+            <div className="content">
+                <div className="skill autodidata">
+                    <i className="bi bi-highlighter"></i>
                     <span>Autodidata</span>
                 </div>
-                <div class="skill resolutivo">
-                    <i class="bi bi-lightbulb"></i>
+                <div className="skill resolutivo">
+                    <i className="bi bi-lightbulb"></i>
                     <span>Resolutivo</span>
                 </div>
-                <div class="skill lideranca">
-                    <i class="bi bi-yin-yang"></i>
+                <div className="skill lideranca">
+                    <i className="bi bi-yin-yang"></i>
                     <span>Liderança</span>
                 </div>
-                <div class="skill time">
-                    <i class="bi bi-emoji-wink"></i>
+                <div className="skill time">
+                    <i className="bi bi-emoji-wink"></i>
                     <span>Do time</span>
                 </div>
-                <div class="skill pensamento">
-                    <i class="bi bi-chat-quote"></i>
+                <div className="skill pensamento">
+                    <i className="bi bi-chat-quote"></i>
                     <span>Pensamento Crítico</span>
                 </div>
             </div>
