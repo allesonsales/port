@@ -21,7 +21,7 @@ useEffect(() => {
             <div className="projectsContainer">    
                 {list?.map(({ name,link, image, url, description }, index) => (
                     <div className="item">
-                    <a href={link}>
+                    <a href={link} target='blank'>
                         <div className='background' style={{ backgroundImage: `url(${image})`}} key = {index}>
                         </div>
                         <span className='projectTitle'>{name}</span>

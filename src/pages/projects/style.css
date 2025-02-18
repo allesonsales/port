@@ -14,7 +14,7 @@
     background-size: cover;
     background-position: center;
     cursor: pointer;
-    filter: opacity(0.2);
+    filter: opacity(0.5);
     transition: ease-in-out .5s;
     border-radius: 20px;
 }

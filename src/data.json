@@ -9,7 +9,7 @@
         "name": "Spider-Man",
         "link":"https://allesonsales.github.io/spider-man/",
         "image": "https://i.imgur.com/18ySKtK.png",
-        "description": "Projeto desenvolvido dentro do bootcamp de Front-end da DIO, onde o desafio foi aplicar os conhecimentos em html, css e javascript. No projeto podemos encontrar alguns filmes do teiudo e entender a cronologia."
+        "description": "Projeto desenvolvido dentro do bootcamp de Front-end da DIO, onde o desafio foi aplicar os conhecimentos em html, css e javascript."
     },
     {
         "name":"Conference Ticket Generator",
