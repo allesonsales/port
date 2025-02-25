@@ -66,6 +66,7 @@
     font-size: 1.5rem;
 }
 
+
 @media (max-width: 767px) {
     .contact {
         width: 80vw;
@@ -92,7 +93,11 @@
     .contato .contatoIcons {
         width: 100vw;
         flex-direction: row;
-        gap: 1rem;
+        gap: 0;
         justify-content: space-around;
+    }
+
+    .contato .icon .bi {
+        font-size: .8rem;
     }
 }

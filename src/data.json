@@ -3,49 +3,57 @@
         "name":"ClickCat",
         "link":"https://allesonsales.github.io/clickcat",
         "image": "https://i.imgur.com/thLA63K.png",
-        "description": "Projeto pessoal de uma página de adoção de gatos, manipulando uma lista."
+        "description": "Projeto pessoal de uma página de adoção de gatos, manipulando uma lista de objetos.",
+        "git": "https://github.com/allesonsales/clickcat"
     },
     {
         "name": "Spider-Man",
         "link":"https://allesonsales.github.io/spider-man/",
         "image": "https://i.imgur.com/18ySKtK.png",
-        "description": "Projeto desenvolvido dentro do bootcamp de Front-end da DIO, onde o desafio foi aplicar os conhecimentos em html, css e javascript."
+        "description": "Projeto desenvolvido dentro do bootcamp de Front-end da DIO, onde o desafio foi aplicar os conhecimentos em html, css e javascript.",
+        "git": "https://github.com/allesonsales/spider-man"
     },
     {
         "name":"Conference Ticket Generator",
         "link":"https://allesonsales.github.io/conference-ticket-generator/",
         "image": "https://i.imgur.com/QN6H6T0.png",
-        "description": "Desafio do Front-end Mentor onde deviamos pegar os dados do usuário e gerar um ticket através de Javascript"
+        "description": "Desafio do Front-end Mentor onde deviamos pegar os dados do usuário e gerar um ticket através de Javascript",
+        "git": "https://github.com/allesonsales/conference-ticket-generator"
     },
     {
         "name":"Advice Generator",
         "link":"https://allesonsales.github.io/advice-generator/",
         "image": "https://i.imgur.com/h24kUwI.png",
-        "description": "Um gerador de conselhos através de uma API."
+        "description": "Um gerador de conselhos através de uma API.",
+        "git": "https://github.com/allesonsales/advice-generator"
     },
     {
         "name":"Social Media Dashbard",
         "link":"https://allesonsales.github.io/social-media-dashboard-theme-switcher/",
         "image": "https://i.imgur.com/6xyyAE0.png",
-        "description": "Uma Dashboard de números de seguidores, com a troca de tema."
+        "description": "Uma Dashboard de números de seguidores, com a troca de tema.",
+        "git": "https://github.com/allesonsales/social-media-dashboard-theme-switcher"
     },
     {
         "name":"Pricing Component",
         "link":"https://allesonsales.github.io/Pricing-component-toggle-master/",
         "image": "https://i.imgur.com/PIeseUs.png",
-        "description": "Página de assinatura, passando o desconto através de um toggle em javascript."
+        "description": "Página de assinatura, passando o desconto através de um toggle em javascript.",
+        "git": "https://github.com/allesonsales/Pricing-component-toggle-master"
     },
     {
         "name":"Time Tracking DashBoard",
         "link":"https://allesonsales.github.io/time-tracking-dashboard/",
         "image": "https://i.imgur.com/tsZbQjC.png",
-        "description": "Aqui o usuário é capaz de ver o tempo gasto em atividades, semanalmente, diareamente ou mensalmente"
+        "description": "Aqui o usuário é capaz de ver o tempo gasto em atividades, semanalmente, diareamente ou mensalmente",
+        "git": "https://github.com/allesonsales/time-tracking-dashboard"
     },
     {
-        "name":"Expenses Chart",
-        "link":"https://allesonsales.github.io/expenses-chart/",
-        "image": "https://i.imgur.com/WqFyGFF.png",
-        "description": "Card de gastos, desenvolvido totalmente em react e passado os dados em react."
+        "name":"Página de Clima",
+        "link":"https://allesonsales.github.io/weather",
+        "image": "https://i.imgur.com/ZoufOOg.png",
+        "description": "Página de clima utilizando uma API OpenWeather para buscar dados meteorológicos, atualizando o layout de acordo com o clima.",
+        "git": "https://github.com/allesonsales/weather"
     }
 ]
 
