@@ -27,7 +27,7 @@ useEffect(() => {
                             <span className='projectTitle'>{name}</span>
                             <span className='projectDescription'>{description}</span>
                         </a>
-                        <a className='git' href={git}>Código do projeto</a>
+                        <a className='git' href={git} target='blank'>Código do projeto</a>
                     </div>
             ))}
             </div>
