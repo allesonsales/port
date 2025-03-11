@@ -35,11 +35,11 @@
         "git": "https://github.com/allesonsales/social-media-dashboard-theme-switcher"
     },
     {
-        "name":"Pricing Component",
-        "link":"https://allesonsales.github.io/Pricing-component-toggle-master/",
+        "name":"AllBooks",
+        "link":"https://allesonsales.github.io/allbooks/",
         "image": "https://i.imgur.com/PIeseUs.png",
-        "description": "Página de assinatura, passando o desconto através de um toggle em javascript.",
-        "git": "https://github.com/allesonsales/Pricing-component-toggle-master"
+        "description": "AllBooks é uma plataforma de livros, permitindo adicionar, editar e remover itens. Desenvolvido com React, JavaScript, HTML e CSS, com foco na experiência do usuário e na responsividade.",
+        "git": "https://github.com/allesonsales/allbooks"
     },
     {
         "name":"Time Tracking DashBoard",
