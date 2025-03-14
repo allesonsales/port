@@ -7,6 +7,13 @@
         "git": "https://github.com/allesonsales/clickcat"
     },
     {
+        "name":"AllBooks",
+        "link":"https://allesonsales.github.io/allbooks/",
+        "image": "https://i.imgur.com/CDSTiuH.png",
+        "description": "AllBooks é uma plataforma de livros, permitindo adicionar, editar e remover itens. Desenvolvido com React, JavaScript, HTML e CSS, com foco na experiência do usuário e na responsividade.",
+        "git": "https://github.com/allesonsales/allbooks"
+    },
+    {
         "name": "Spider-Man",
         "link":"https://allesonsales.github.io/spider-man/",
         "image": "https://i.imgur.com/18ySKtK.png",
@@ -33,13 +40,6 @@
         "image": "https://i.imgur.com/6xyyAE0.png",
         "description": "Uma Dashboard de números de seguidores, com a troca de tema.",
         "git": "https://github.com/allesonsales/social-media-dashboard-theme-switcher"
-    },
-    {
-        "name":"AllBooks",
-        "link":"https://allesonsales.github.io/allbooks/",
-        "image": "https://i.imgur.com/PIeseUs.png",
-        "description": "AllBooks é uma plataforma de livros, permitindo adicionar, editar e remover itens. Desenvolvido com React, JavaScript, HTML e CSS, com foco na experiência do usuário e na responsividade.",
-        "git": "https://github.com/allesonsales/allbooks"
     },
     {
         "name":"Time Tracking DashBoard",

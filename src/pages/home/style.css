@@ -97,6 +97,10 @@ button:hover {
         
     }
 
+    .aboutMeContainer {
+        margin-top: 3rem;
+    }
+
     #aboutMe img {
         width: 200px;
         height: auto;

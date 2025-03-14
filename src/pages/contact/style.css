@@ -79,7 +79,7 @@
     .contatoContainer {
         align-items: center;
         justify-content: space-around;
-        gap: 2rem;
+        gap: .5rem;
     }
 
     .contato span{
