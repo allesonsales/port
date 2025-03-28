@@ -15,10 +15,10 @@
     },
     {
         "name": "Spider-Man",
-        "link":"https://allesonsales.github.io/spider-man/",
-        "image": "https://i.imgur.com/18ySKtK.png",
-        "description": "Projeto desenvolvido dentro do bootcamp de Front-end da DIO, onde o desafio foi aplicar os conhecimentos em html, css e javascript.",
-        "git": "https://github.com/allesonsales/spider-man"
+        "link":"https://allesonsales.github.io/cnbox/",
+        "image": "https://i.imgur.com/I3Hj8tF.png",
+        "description": "Landing page para uma franquia de academia, o design foi elaborado para garantir uma experiência de usuário fluida em diversos dispositivos, como desktops, tablets e smartphones.",
+        "git": "https://github.com/allesonsales/cnbox"
     },
     {
         "name":"Conference Ticket Generator",
